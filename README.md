@@ -1,0 +1,1 @@
+Hello! This is a project from TheOdinProject's curriculum found [here](https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-building-blocks?ref=lnav).
